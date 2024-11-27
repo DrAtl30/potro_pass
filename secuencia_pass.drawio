@@ -193,17 +193,17 @@
         <mxCell id="MZV24hAAvLW5Updse1Ec-12" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#808080;" vertex="1" parent="MZV24hAAvLW5Updse1Ec-11">
           <mxGeometry x="45" y="90" width="10" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="MZV24hAAvLW5Updse1Ec-13" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-2000" y="82.5" width="100" height="35" as="geometry" />
+        <mxCell id="MZV24hAAvLW5Updse1Ec-13" value="Visualiza los eventos y se suscribe a los de su interéz." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-2000" y="50" width="100" height="67.5" as="geometry" />
         </mxCell>
-        <mxCell id="MZV24hAAvLW5Updse1Ec-14" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-1480" y="82.5" width="100" height="35" as="geometry" />
+        <mxCell id="MZV24hAAvLW5Updse1Ec-14" value="Gestiona los confirmaciones a eventos, valida información de usuarios, coordina la interacción entre los diferentes entes" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-1480" y="-50" width="100" height="167.5" as="geometry" />
         </mxCell>
-        <mxCell id="MZV24hAAvLW5Updse1Ec-15" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-920" y="80" width="100" height="35" as="geometry" />
+        <mxCell id="MZV24hAAvLW5Updse1Ec-15" value="Almacena la información sobre los eventos, asistencias, características, etc." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-920" width="100" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="MZV24hAAvLW5Updse1Ec-16" value="Note" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
-          <mxGeometry x="-350" y="77.5" width="100" height="35" as="geometry" />
+        <mxCell id="MZV24hAAvLW5Updse1Ec-16" value="Gestiona eventos: crea, actualiza, valida y elimina." style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="-350" y="40" width="100" height="72.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
